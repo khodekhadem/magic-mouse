@@ -1,6 +1,3 @@
-# magic-mouse
-if you have a gaming mouse you can do magic staff with your key binds and scroll wheel
-
 
 
 [![Available_in](https://img.shields.io/badge/-Available%20in-555)]()
@@ -17,6 +14,9 @@ if you have a gaming mouse you can do magic staff with your key binds and scroll
 
 
 # magic-mouse
+
+if you have a gaming mouse you can do magic staff with your key binds and scroll wheel
+
 if your change vollume short cut is set on ctrl+up arrow and ctrl+down arrow hold your first key bind and scroll then you can change your vollume level and by holding second key bind and scroll you can change you open apps
 # Requirements
 
